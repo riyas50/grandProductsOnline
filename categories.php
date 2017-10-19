@@ -8,8 +8,6 @@
    <title>Chromis PHP - Categories</title>
   </head>
   <body>
-
-  
   
 <header class="site__header island">
   <div class="wrap">
